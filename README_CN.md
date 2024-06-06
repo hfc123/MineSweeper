@@ -6,7 +6,4 @@
 
 # 预览
 
-<video width="320" height="240" controls>
-  <source src="pic\bb383b57f92c22635de40d8c5076c907.mp4" type="video/mp4">
-  预览 
-</video>
+下载 pic/**.MP4 预览 
